@@ -1,2 +1,2 @@
 # Filmtivity
-Softuni Final midterm prject
+Softuni final midterm project
